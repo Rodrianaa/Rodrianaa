@@ -1,8 +1,3 @@
-Okay, I can help you update your GitHub profile README to reflect that your "Todo List" project is now completed and add it to your "Completed Projects" section, similar to your "Project 3" entry.
-
-Here's the updated content for your `README.md` file that you can copy and paste into your GitHub profile's `README.md`:
-
-```markdown
 # Hi there 👋 
 I'm Rodriana, a developer building projects to level up my skills!
 
@@ -43,4 +38,3 @@ I'm Rodriana, a developer building projects to level up my skills!
     - **CSS** (Flexbox for micro-layouts, custom animations) 
     - **Semantic HTML5** (ARIA labels, landmark roles) 
     - **JavaScript** (DOM manipulation, event handling)
-```
