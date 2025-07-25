@@ -1,40 +1,46 @@
-# Hi there 👋  
+Okay, I can help you update your GitHub profile README to reflect that your "Todo List" project is now completed and add it to your "Completed Projects" section, similar to your "Project 3" entry.
+
+Here's the updated content for your `README.md` file that you can copy and paste into your GitHub profile's `README.md`:
+
+```markdown
+# Hi there 👋 
 I'm Rodriana, a developer building projects to level up my skills!
 
-## 📦 Projects  
+## 📦 Projects 
 
-### Active Development  
-- 🔨 [Todo List (WIP)](https://github.com/Rodrianaa/todo-list.git) - A dynamic task manager built with HTML/CSS/JS. Currently:
-✅ Core functionality: Add, display, and submit tasks
-✅ Basic UI: Clean input form with task list
-✅ Filter by task state
+### Active Development 
+(You don't have active development projects right now, so this section can be left empty or removed entirely. I'll leave it empty for now, as you requested.)
 
-Coming soon:
+### Completed Projects 
+- ✅ [Simple To-Do List Application](https://github.com/Rodrianaa/todo-list.git) - A responsive and interactive task manager with persistence.
+    - **Live Demo:** [https://rodrianaa.github.io/todo-list/](https://rodrianaa.github.io/todo-list/)
+    - **Technologies:**
+        - **HTML5** (Semantic structure)
+        - **CSS3** (Styling and layout)
+        - **JavaScript (Vanilla JS)** (Application logic, DOM manipulation)
+        - **Font Awesome** (Icons)
+    - **Key Features**:
+        ✅ Add new tasks
+        ✅ Mark tasks as complete/incomplete
+        ✅ Delete existing tasks
+        ✅ Filter tasks by status (all, completed, uncompleted)
+        ✅ Data persistence using Local Storage
+- 📰 [Project 3](https://github.com/Rodrianaa/admin-panel) - Modern admin panel built with: 
+    - **HTML5** (Semantic markup) 
+    - **CSS** (Grid/Flexbox layouts, transitions) 
+    - **Bootstrap 5** (Responsive utilities) 
+    - **jQuery** (DOM manipulation, animations) 
 
-🚧  Delete tasks
-
-🚧 Check tasks
-
-🚧 LocalStorage persistence (save tasks between sessions)
-
-Goal: Master DOM manipulation and state management in vanilla JS.
-
-### Completed Projects  
-- 📰 [Project 3](https://github.com/Rodrianaa/admin-panel) - Modern admin panel built with:  
-- **HTML5** (Semantic markup)  
-- **CSS** (Grid/Flexbox layouts, transitions)  
-- **Bootstrap 5** (Responsive utilities)  
-- **jQuery** (DOM manipulation, animations)  
-
-**Key Features**:  
-✅ Dynamic sidebar toggling  
-✅ Mobile-friendly dropdowns  
-✅ Fullscreen mode toggle  
-✅ Animated search bar  
+    **Key Features**: 
+    ✅ Dynamic sidebar toggling 
+    ✅ Mobile-friendly dropdowns 
+    ✅ Fullscreen mode toggle 
+    ✅ Animated search bar 
 - 🎉 [Project 4](https://github.com/Rodrianaa/crypto-news-page.git) - Mobile-first CSS Grid layout · Semantic HTML5
-- 🏆 [Project 5](https://github.com/Rodrianaa/testimonals-grid-section) -  Mobile-first CSS Grid layout · Semantic HTML5
+- 🏆 [Project 5](https://github.com/Rodrianaa/testimonals-grid-section) - Mobile-first CSS Grid layout · Semantic HTML5
 - 🌐 [Project 6](https://github.com/Rodrianaa/clipboard-landing-page) - clipboard-landing-page built with: 
-- **Bootstrap 5** (Grid system, components)  
-- **CSS** (Flexbox for micro-layouts, custom animations)  
-- **Semantic HTML5** (ARIA labels, landmark roles)  
-- **JavaScript** (DOM manipulation, event handling)
+    - **Bootstrap 5** (Grid system, components) 
+    - **CSS** (Flexbox for micro-layouts, custom animations) 
+    - **Semantic HTML5** (ARIA labels, landmark roles) 
+    - **JavaScript** (DOM manipulation, event handling)
+```
