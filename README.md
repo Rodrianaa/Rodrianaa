@@ -3,9 +3,6 @@ I'm Rodriana, a developer building projects to level up my skills!
 
 ## 📦 Projects 
 
-### Active Development 
-(You don't have active development projects right now, so this section can be left empty or removed entirely. I'll leave it empty for now, as you requested.)
-
 ### Completed Projects 
 - ✅ [Simple To-Do List Application](https://github.com/Rodrianaa/todo-list.git) - A responsive and interactive task manager with persistence.
     - **Live Demo:** [https://rodrianaa.github.io/todo-list/](https://rodrianaa.github.io/todo-list/)
