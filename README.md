@@ -38,8 +38,3 @@ Here's a showcase of my completed and ongoing work, demonstrating my proficiency
 ### Future Focus
 
 Currently, I'm refining my recently completed projects and deepening my understanding of core JavaScript concepts. I'm always open to new challenges and exploring advanced front-end frameworks.
-
-
-## 📫 Let's Connect!
-
-* [GitHub Profile](https://github.com/Rodrianaa) (You're here!)
