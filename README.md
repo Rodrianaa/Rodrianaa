@@ -24,8 +24,3 @@ Here's a showcase of my completed and ongoing work, demonstrating my proficiency
     * [GitHub Repository](https://github.com/Rodrianaa/crypto-news-page.git) | [Live Demo](https://rodrianaa.github.io/crypto-news-page/)
     * A visually appealing, mobile-first news layout highlighting responsive design principles using CSS Grid.
     * **Technologies:** Semantic HTML5, CSS Grid.
-
-* **4. 🌐 Clipboard Landing Page**
-    * [GitHub Repository](https://github.com/Rodrianaa/clipboard-landing-page) | [Live Demo](https://rodrianaa.github.io/clipboard-landing-page/)
-    * A professional landing page for a clipboard application, emphasizing modern CSS techniques and responsiveness.
-    * **Technologies:** Bootstrap 5 (Grid System, Components), CSS (Flexbox, Custom Animations), Semantic HTML5 (ARIA labels, Landmark Roles), JavaScript (DOM Manipulation, Event Handling).
