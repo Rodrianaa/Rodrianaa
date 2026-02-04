@@ -21,7 +21,7 @@ Here's a showcase of my completed and ongoing work, demonstrating my proficiency
     * **Key Features:** Dynamic sidebar toggling, mobile-friendly dropdowns, fullscreen mode toggle, and an animated search bar.
 
 * **3. 🎉 Crypto News Page**
-    * [GitHub Repository](https://github.com/Rodrianaa/crypto-news-page.git)
+    * [GitHub Repository](https://github.com/Rodrianaa/crypto-news-page.git) | [Live Demo](https://rodrianaa.github.io/crypto-news-page/)
     * A visually appealing, mobile-first news layout highlighting responsive design principles using CSS Grid.
     * **Technologies:** Semantic HTML5, CSS Grid.
 
