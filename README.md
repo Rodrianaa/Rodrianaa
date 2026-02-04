@@ -25,12 +25,7 @@ Here's a showcase of my completed and ongoing work, demonstrating my proficiency
     * A visually appealing, mobile-first news layout highlighting responsive design principles using CSS Grid.
     * **Technologies:** Semantic HTML5, CSS Grid.
 
-* **4. 🏆 Testimonials Grid Section**
-    * [GitHub Repository](https://github.com/Rodrianaa/testimonals-grid-section)
-    * A clean and responsive grid section designed for displaying testimonials, optimized for mobile viewing.
-    * **Technologies:** Semantic HTML5, CSS Grid.
-
-* **5. 🌐 Clipboard Landing Page**
+* **4. 🌐 Clipboard Landing Page**
     * [GitHub Repository](https://github.com/Rodrianaa/clipboard-landing-page)
     * A professional landing page for a clipboard application, emphasizing modern CSS techniques and responsiveness.
     * **Technologies:** Bootstrap 5 (Grid System, Components), CSS (Flexbox, Custom Animations), Semantic HTML5 (ARIA labels, Landmark Roles), JavaScript (DOM Manipulation, Event Handling).
