@@ -15,7 +15,7 @@ Here's a showcase of my completed and ongoing work, demonstrating my proficiency
     * **Key Features:** Add new tasks, mark tasks as complete/incomplete, delete existing tasks, filter tasks by status (all, completed, uncompleted), and data persistence using Local Storage.
 
 * **2. 📰 Admin Panel Dashboard**
-    * [GitHub Repository](https://github.com/Rodrianaa/admin-panel)
+    * [GitHub Repository](https://github.com/Rodrianaa/admin-panel) | [Live Demo]([https://rodrianaa.github.io/todo-list/])
     * A modern, responsive admin panel showcasing dynamic UI elements and comprehensive layout techniques.
     * **Technologies:** HTML5 (Semantic Markup), CSS (Grid & Flexbox layouts, transitions), Bootstrap 5 (Responsive Utilities), jQuery (DOM Manipulation, Animations).
     * **Key Features:** Dynamic sidebar toggling, mobile-friendly dropdowns, fullscreen mode toggle, and an animated search bar.
